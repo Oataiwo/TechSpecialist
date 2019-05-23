@@ -1,0 +1,49 @@
+p {
+  color:#000;
+}
+
+body{
+  
+}
+
+
+.options{
+  float:right;
+  list-style-type:none;
+  margin-top: 25px;
+  padding-left:50px;
+  display: inline-block;
+}
+
+/*ul li{
+  display: inline-block;
+}
+*/
+
+ol {
+  color:#000;
+}
+
+h1 {
+  text-align: center;
+  color:orange;
+  font-family: Verdana;
+  font-size: 30px;
+  text-shadow: 2px 2px 2px #aaa;
+
+}
+
+img[src] {
+  width: 300px;
+  /*display: block;
+  margin: 0 auto;
+}*/
+
+/*body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}*/
+
